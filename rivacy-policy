@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>隱私政策 | ruedemode</title>
+<style>
+  body {
+    font-family: -apple-system, "Helvetica Neue", "PingFang TC", "Microsoft JhengHei", sans-serif;
+    max-width: 720px;
+    margin: 40px auto;
+    padding: 0 20px;
+    line-height: 1.7;
+    color: #222;
+  }
+  h1 { font-size: 1.6em; margin-bottom: 0.2em; }
+  h2 { font-size: 1.15em; margin-top: 1.6em; }
+  .updated { color: #777; font-size: 0.9em; margin-bottom: 2em; }
+  footer { margin-top: 3em; color: #999; font-size: 0.85em; }
+</style>
+</head>
+<body>
+
+<h1>隱私政策</h1>
+<p class="updated">最後更新日期：2026 年 8 月</p>
+
+<p>本隱私政策說明 ruedemode（以下稱「我們」）如何在營運內部行銷自動化工具及相關系統時，處理與使用者帳號串接（例如 Meta / Threads）相關的資訊。</p>
+
+<h2>我們蒐集哪些資訊</h2>
+<p>我們透過 Meta 開發者平台（Threads API）串接，僅用於發佈本品牌自有帳號的貼文內容，包括文字、圖片與相關中繼資料。我們不會透過此串接蒐集其他使用者的個人資料。</p>
+
+<h2>資訊如何被使用</h2>
+<p>所串接之存取權杖（Access Token）僅用於自動化發佈 ruedemode 品牌帳號的內容，不會用於任何第三方行銷、資料轉售或未經授權之用途。</p>
+
+<h2>資料儲存與安全性</h2>
+<p>相關存取憑證儲存於我們內部自動化系統中，並採取合理之技術措施保護其安全，避免未經授權之存取。</p>
+
+<h2>資料刪除</h2>
+<p>如需要求刪除與本應用程式相關之資料，請透過下方聯絡方式與我們聯繫，我們將於合理時間內處理。</p>
+
+<h2>聯絡我們</h2>
+<p>若您對本隱私政策有任何疑問，歡迎透過以下電子郵件與我們聯繫：<br>
+agent.ruedemode@gmail.com</p>
+
+<footer>© 2026 ruedemode. All rights reserved.</footer>
+
+</body>
+</html>
